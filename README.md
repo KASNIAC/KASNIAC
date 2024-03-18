@@ -6,22 +6,22 @@
 
 <br>
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
-<br>
+## 👨🏻‍🦱💻 **About me**
+<ul>	
+	<li>👨‍🎓 I am a <b><i>Junior</i></b> recently graduated from <a href="https://azc.uam.mx/">UAM Azcapotzalco</a>. </li>
+	<li>🧠 My degree project consisted of developing an <b><i>Artificial Neural Network</i></b> that generates levels for a  <a href="https://kasniac.com/kasniac_lunky/"> 2D platform game </a> and another network that solves these levels. </li>
+ 	<li>💻 I enjoy solving <b>algorithmic</b>, technological and mathematical problems.</li>
+	<li>🥇 I won <b><i>first</i></i></b> place in the programming contest organized by my university at <a href="https://omegaup.com/arena/UAMXIX/#ranking"> Omegaup </a> in 2023.</li>
+	<li>🏆 <b><i>Twice</i></i></b> national finalist in the GPMX ICPC: 2021 (41st place) & 2023 (21st place). </li>
+	<li>📕 I am currently focus on learning more about <b><i>Web Development</i></b> & <b><i>Neural Networks.</i></b> </li>
+	<li>🤓 I am open for a <b><i>job opportunity</i></b>, this is <a href="https://drive.google.com/drive/folders/1tiwbdjbLbLVHLQzHZosnc9OPvSpV0zGD?usp=drive_link"> My Resume </a>. </li>
+	<li>🌐 Visit my website <a href="https://kasniac.com/">kasniac.com</a></li>
+</ul>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
-
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
 
 <p align="center">
 
@@ -72,7 +72,7 @@
 
 <br>
 
-
+<!--
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
@@ -148,3 +148,4 @@
 Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
 
 Last Edited on: 09/11/2022
+-->
