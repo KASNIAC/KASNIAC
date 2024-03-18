@@ -12,7 +12,7 @@
 	<li>👨‍🎓 I am a <b><i>Junior</i></b> recently graduated from <a href="https://azc.uam.mx/">UAM Azcapotzalco</a>. </li>
 	<li>🧠 My degree project consisted of developing an <b><i>Artificial Neural Network</i></b> that generates levels for a  <a href="https://kasniac.com/kasniac_lunky/"> 2D platform game </a> and another network that solves these levels. </li>
  	<li>💻 I enjoy solving <b>algorithmic</b>, technological and mathematical problems.</li>
-	<li>🥇 I won <b><i>first</i></i></b> place in the programming contest organized by my university at <a href="https://omegaup.com/arena/UAMXIX/#ranking"> Omegaup </a> in 2023.</li>
+	<li>🥇 I won <b><i>first</i></i></b> place in UAM Azcapotzalco's internal contest at <a href="https://omegaup.com/arena/UAMXIX/#ranking"> Omegaup </a> in 2023.</li>
 	<li>🏆 <b><i>Twice</i></i></b> national finalist in the GPMX ICPC: 2021 (41st place) & 2023 (21st place). </li>
 	<li>📕 I am currently focus on learning more about <b><i>Web Development</i></b> & <b><i>Neural Networks.</i></b> </li>
 	<li>🤓 I am open for a <b><i>job opportunity</i></b>, this is <a href="https://drive.google.com/drive/folders/1tiwbdjbLbLVHLQzHZosnc9OPvSpV0zGD?usp=drive_link"> My Resume </a>. </li>
