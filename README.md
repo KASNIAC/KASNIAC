@@ -1,9 +1,8 @@
 
-<h1 align="center"><b>Hi there!, My name is Alexis García </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->A
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=F79B33&center=true&vCenter=true&random=false&width=700&height=100&lines=Computer+Engineer;Competitive+Programmer;18th+place+in+the+Omegaup+ranking;21st+place+GPMX+ICPC+2023;Always+learning+new+things;Currently+focus+on+Web+Development+%26+Neural+Networks" alt="Typing SVG" /></a>
+<h1 align="center"><b>Hi there!, I'm Alexis García </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=800&color=F79B33&center=true&vCenter=true&random=false&width=700&height=100&lines=Computer+Engineer;Competitive+Programmer;18th+place+in+the+Omegaup+ranking;21st+place+GPMX+ICPC+2023;Always+learning+new+things;Currently+focus+on+Web+Development+%26+Neural+Networks" alt="Typing SVG" /></a>
 
 <br>
 
