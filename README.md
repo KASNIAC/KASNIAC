@@ -25,39 +25,40 @@
 
 <p align="center">
 
-- **Languages**:
-    
-    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+- **Programming Languages**:
 
+  <a href="https://kasniac.com"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B%20-%203%20years%20-%20%23333333?style=for-the-badge&logo=cplusplus&labelColor=%23228"></a>
+  <a href="https://kasniac.com"><img alt="C" src="https://img.shields.io/badge/C%20-%203%20years%20-%20%23333333?style=for-the-badge&logo=c&labelColor=%23007FFF"></a>
+  <a href="https://kasniac.com"><img alt="Java Badge" src="https://img.shields.io/badge/JAVA%20-%203%20years%20-%20%23333333?style=for-the-badge&labelColor=%23B07219"></a>
+  <a href="https://kasniac.com"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%201%20year%20-%20%23333333?style=for-the-badge&logo=javascript&logoColor=black&labelColor=%23F7DF1E"></a>
+  
+  <a href="https://kasniac.com"><img alt="PHP" src="https://img.shields.io/badge/PHP%20-%201%20year%20-%20%23333333?style=for-the-badge&logo=php&logoColor=white&labelColor=%234F5D95"></a>
+  <a href="https://kasniac.com"><img alt="Python" src="https://img.shields.io/badge/PYTHON%20-%206%20months%20-%20%23333333?style=for-the-badge&logo=python&logoColor=white&labelColor=%233572A5"></a>
     
 - **Front-End Development**:
 
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+  <a href="https://kasniac.com"><img alt="html5" src="https://img.shields.io/badge/html5%20-%203%20years%20-%20%23333333?style=for-the-badge&logo=html5&logoColor=white&labelColor=%20%23E44D26"></a>
+  <a href="https://kasniac.com"><img alt="css3" src="https://img.shields.io/badge/css3%20-%202%20years%20-%20%23333333?style=for-the-badge&logo=css3&logoColor=white&labelColor=%233498DB"></a>
+  <a href="https://kasniac.com"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%201%20year%20-%20%23333333?style=for-the-badge&logo=javascript&logoColor=black&labelColor=%23F7DF1E"></a>
+  <a href="https://kasniac.com"><img alt="SVG" src="https://img.shields.io/badge/svg%20-%206%20months%20-%20%23333333?style=for-the-badge&logo=SVG&logoColor=black&labelColor=%23FFB13B"></a>
 
+- **Technologies**:
 
-- **Cloud Hosting**:
-
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-    
-
+  <a href="https://kasniac.com"><img alt="sql" src="https://img.shields.io/badge/SQL%20-%201%20year%20-%20orange?style=for-the-badge&labelColor=%232E63A2"></a>
+  <a href="https://kasniac.com"><img alt="openGL" src="https://img.shields.io/badge/openGL%20-%206%20months%20-%20%23333333?style=for-the-badge&logo=opengl&logoColor=black&labelColor=%2370B3CC&color=%23333333"></a>
+  <a href="https://kasniac.com"><img alt="pytorch" src="https://img.shields.io/badge/pytorch%20-%203%20months%20-%20%23333333?style=for-the-badge&logo=pytorch&labelColor=%2370B3CC&color=%23333333"></a>
+  
 - **Softwares and Tools**:
 
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-
-
-- **Extras**:
-
+    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
     ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
 
+- **Methodologies**:
+
+  <a href="https://kasniac.com"><img alt="scrum" src="https://img.shields.io/badge/scrum%20-%20rgb(30%2C%2060%2C%2090)?style=for-the-badge&logo=scrumalliance&logoColor=white"></a>
 
 </p>
 
