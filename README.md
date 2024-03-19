@@ -14,7 +14,7 @@
  	<li>💻 I enjoy solving <b><i>algorithmic</i></b>, technological and mathematical problems.</li>
 	<li>🥇 I won <b><i>first</i></i></b> place in <a href="https://omegaup.com/arena/UAMXIX/#ranking">UAM Azcapotzalco's internal contest at Omegaup</a> in 2023.</li>
 	<li>🏆 <b><i>Twice</i></i></b> national finalist in the GPMX <a href="https://icpc.global/">ICPC</a>: 2021 (41st place) & 2023 (21st place). </li>
-	<li>🏅 18th user ranked on <a href="https://omegaup.com/rank/">Omegaup</a> in 2023.</li>
+	<li>🏅 18th user ranked on <a href="https://omegaup.com/rank/">Omegaup</a>.</li>
 	<li>🔥 24 days streak on <a href="https://leetcode.com/problemset/">leetcode</a> and counting. </li>
 	<li>📕 I am currently focus on learning more about <b><i>Web Development</i></b> & <b><i>Neural Networks.</i></b> </li>
 	<li>🤓 I am open for a <b><i>job opportunity</i></b>, this is <a href="https://drive.google.com/drive/folders/1tiwbdjbLbLVHLQzHZosnc9OPvSpV0zGD?usp=drive_link">My Resume</a>. </li>
