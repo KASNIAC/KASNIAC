@@ -11,11 +11,13 @@
 <ul>	
 	<li>👨‍🎓 I am a <b><i>Junior</i></b> recently graduated from <a href="https://azc.uam.mx/">UAM Azcapotzalco</a>. </li>
 	<li>🧠 My degree project consisted of developing an <b><i>Artificial Neural Network</i></b> that generates levels for a  <a href="https://kasniac.com/kasniac_lunky/"> 2D platform game </a> and another network that solves these levels. </li>
- 	<li>💻 I enjoy solving <b>algorithmic</b>, technological and mathematical problems.</li>
-	<li>🥇 I won <b><i>first</i></i></b> place in UAM Azcapotzalco's internal contest at <a href="https://omegaup.com/arena/UAMXIX/#ranking"> Omegaup </a> in 2023.</li>
-	<li>🏆 <b><i>Twice</i></i></b> national finalist in the GPMX ICPC: 2021 (41st place) & 2023 (21st place). </li>
+ 	<li>💻 I enjoy solving <b><i>algorithmic</i></b>, technological and mathematical problems.</li>
+	<li>🥇 I won <b><i>first</i></i></b> place in <a href="https://omegaup.com/arena/UAMXIX/#ranking">UAM Azcapotzalco's internal contest at Omegaup</a> in 2023.</li>
+	<li>🏆 <b><i>Twice</i></i></b> national finalist in the GPMX <a href="https://icpc.global/">ICPC</a>: 2021 (41st place) & 2023 (21st place). </li>
+	<li>🏅 18th user ranked on <a href="https://omegaup.com/rank/">Omegaup</a> in 2023.</li>
+	<li>🔥 24 days streak on <a href="https://leetcode.com/problemset/">leetcode</a> and counting. </li>
 	<li>📕 I am currently focus on learning more about <b><i>Web Development</i></b> & <b><i>Neural Networks.</i></b> </li>
-	<li>🤓 I am open for a <b><i>job opportunity</i></b>, this is <a href="https://drive.google.com/drive/folders/1tiwbdjbLbLVHLQzHZosnc9OPvSpV0zGD?usp=drive_link"> My Resume </a>. </li>
+	<li>🤓 I am open for a <b><i>job opportunity</i></b>, this is <a href="https://drive.google.com/drive/folders/1tiwbdjbLbLVHLQzHZosnc9OPvSpV0zGD?usp=drive_link">My Resume</a>. </li>
 	<li>🌐 Visit my website <a href="https://kasniac.com/">kasniac.com</a></li>
 </ul>
 
@@ -31,7 +33,6 @@
   <a href="https://kasniac.com"><img alt="C" src="https://img.shields.io/badge/C%20-%203%20years%20-%20%23333333?style=for-the-badge&logo=c&labelColor=%23007FFF"></a>
   <a href="https://kasniac.com"><img alt="Java Badge" src="https://img.shields.io/badge/JAVA%20-%203%20years%20-%20%23333333?style=for-the-badge&labelColor=%23B07219"></a>
   <a href="https://kasniac.com"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%201%20year%20-%20%23333333?style=for-the-badge&logo=javascript&logoColor=black&labelColor=%23F7DF1E"></a>
-  
   <a href="https://kasniac.com"><img alt="PHP" src="https://img.shields.io/badge/PHP%20-%201%20year%20-%20%23333333?style=for-the-badge&logo=php&logoColor=white&labelColor=%234F5D95"></a>
   <a href="https://kasniac.com"><img alt="Python" src="https://img.shields.io/badge/PYTHON%20-%206%20months%20-%20%23333333?style=for-the-badge&logo=python&logoColor=white&labelColor=%233572A5"></a>
     
