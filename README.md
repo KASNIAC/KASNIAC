@@ -9,7 +9,7 @@
 
 ## 👨🏻‍🦱💻 **About me**
 <ul>	
-	<li>👨‍🎓 I am a <b><i>Junior</i></b> recently graduated from <a href="https://azc.uam.mx/">UAM Azcapotzalco</a>. </li>
+	<li>👨‍🎓 I am a recently graduated from <a href="https://azc.uam.mx/">UAM Azcapotzalco</a>. </li>
 	<li>🧠 My degree project consisted of developing an <b><i>Artificial Neural Network</i></b> that generates levels for a  <a href="https://kasniac.com/kasniac_lunky/"> 2D platform game </a> and another network that solves these levels. </li>
  	<li>💻 I enjoy solving <b><i>algorithmic</i></b>, technological and mathematical problems.</li>
 	<li>🥇 I won <b><i>first</i></i></b> place in <a href="https://omegaup.com/arena/UAMXIX/#ranking">UAM Azcapotzalco's internal contest at Omegaup</a> in 2023.</li>
