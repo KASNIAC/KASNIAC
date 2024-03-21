@@ -10,7 +10,7 @@
 ## 👨🏻‍🦱💻 **About me**
 <ul>	
 	<li>👨‍🎓 I am a recently graduated from <a href="https://azc.uam.mx/">UAM Azcapotzalco</a>. </li>
-	<li>🧠 My degree project consisted of developing an <b><i>Artificial Neural Network</i></b> that generates levels for a  <a href="https://kasniac.com/kasniac_lunky/"> 2D platform game </a> and another network that solves these levels. </li>
+	<li>🧠 My <a href="https://github.com/KASNIAC/Red-Neuronal-Artificial-Generadora-Niveles-2D">degree project</a> consisted of developing an <b><i>Artificial Neural Network</i></b> that generates levels for a  <a href="https://kasniac.com/kasniac_lunky/"> 2D platform game </a> and another network that solves these levels. </li>
  	<li>💻 I enjoy solving <b><i>algorithmic</i></b>, technological and mathematical problems.</li>
 	<li>🥇 I won <b><i>first</i></i></b> place in <a href="https://omegaup.com/arena/UAMXIX/#ranking">UAM Azcapotzalco's internal contest at Omegaup</a> in 2023.</li>
 	<li>🏆 <b><i>Twice</i></i></b> national finalist in the GPMX <a href="https://icpc.global/">ICPC</a>: 2021 (41st place) & 2023 (21st place). </li>
