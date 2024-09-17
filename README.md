@@ -17,8 +17,7 @@
 	<li>🏅 18th user ranked on <a href="https://omegaup.com/rank/">Omegaup</a>.</li>
 	<li>🔥 61 days streak on <a href="https://leetcode.com/KASNIAC/">leetcode</a>. </li>
 	<li>📕 I am currently focus on learning more about <b><i>Web Development</i></b> & <b><i>Neural Networks.</i></b> </li>
-	<li>🤓 I am open for a <b><i>job opportunity</i></b>, this is <a href="https://drive.google.com/drive/folders/1tiwbdjbLbLVHLQzHZosnc9OPvSpV0zGD?usp=drive_link">My Resume</a>. </li>
-	<li>🌐 Visit my website <a href="https://kasniac.com/">kasniac.com</a></li>
+	<li>🌐 I am open for a <b><i>job opportunity</i></b>, you can find my cv in my website <a href="https://kasniac.com/">kasniac.com</a>.</li>
 </ul>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
